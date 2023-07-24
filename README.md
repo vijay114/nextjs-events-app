@@ -11,7 +11,7 @@ This app provides a user-friendly interface to explore various events and gather
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- 
+
 ## Introduction
 
 The Next.js Events App is designed to help users view and add events in an efficient and straightforward way.
